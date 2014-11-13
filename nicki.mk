@@ -164,6 +164,9 @@ PRODUCT_PACKAGES += \
     memtrack.msm8960
 
 PRODUCT_PACKAGES += \
+    extract_elf_ramdisk
+
+PRODUCT_PACKAGES += \
     librs_jni \
     com.android.future.usb.accessory
 
